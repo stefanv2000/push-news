@@ -1,0 +1,25 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.proveba.restproj"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.proveba.restproj"
+        },
+        "phonegap-plugin-push": {
+            "SENDER_ID": "988854512822",
+            "PACKAGE_NAME": "com.proveba.restproj"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.proveba.restproj"
+        }
+    },
+    "dependent_plugins": {}
+}
